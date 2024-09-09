@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PropertyMap.ie Blog
+title: PropertyMap.ie Propaganda
 email: info@propertymap.ie
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: propertymap
-github_username:  propertymap
+  Discover the latest trends, insights, and tips in the world of property buying, renting, and sharing.
+  At PropertyMap.ie, we are dedicated to simplifying the property search process across Ireland and
+  Northern Ireland. Whether you’re a first-time buyer, a seasoned investor, or looking for the perfect
+  rental, our blog is your go-to resource for market updates, home improvement advice, and expert
+  guidance.
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
