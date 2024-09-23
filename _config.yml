@@ -4,7 +4,7 @@ email: info@propertymap.ie
 description: >-
   Discover the latest trends, insights, and tips in the world of property buying, renting, and sharing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://propertymap.ie" # the base hostname & protocol for your site
+url: "https://blog.propertymap.ie" # the base hostname & protocol for your site
 twitter_username: propertymap_ie
 github_username: propertymap_ie
 logo: "/assets/blog-logo.png" # Add your logo
