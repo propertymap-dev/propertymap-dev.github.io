@@ -4,7 +4,6 @@ title: "Is Daft.ie the Most Expensive Property Listing Site in the World?"
 date: 2024-09-22 19:02:44 +0100  
 categories: property market
 permalink: /property-market/is-daft-the-most-expensive-property-listing-portal
-published: false
 ---
 
 If you've ever tried to sell or rent a property in Ireland, you're probably familiar with **Daft.ie**—one of the largest and most well-known property listing sites in the country. But have you ever wondered just how much it costs to list your property there?
