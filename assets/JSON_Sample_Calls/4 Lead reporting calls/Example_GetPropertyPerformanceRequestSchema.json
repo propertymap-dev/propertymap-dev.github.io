@@ -1,0 +1,15 @@
+{
+	"network":{
+		"network_id": 987
+	},
+	"branch":{
+		"branch_id": 12345
+	},
+	"property":{
+		"agent_ref": "testproperty1"
+	},
+	"export_period":{
+		"start_date": "07-03-2017",
+		"end_date": "10-03-2017"
+	}
+}

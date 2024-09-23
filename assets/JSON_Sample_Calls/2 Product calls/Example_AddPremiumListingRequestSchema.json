@@ -1,0 +1,18 @@
+{
+	"network":{
+		"network_id": 987
+	},
+	"branch":{
+		"branch_id": 12345,
+		"channel": 1
+	},
+	"property":{
+		"agent_ref": "testproperty1",
+		"premium_listing":{
+			"display_type": 1,
+			"resale_stamp_text": 14,
+			"web_flag": true,
+			"mobile_flag": true
+		}
+	}
+}

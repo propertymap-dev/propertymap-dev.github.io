@@ -1,0 +1,9 @@
+{
+	"network":{
+		"network_id": 987
+	},
+	"branch":{
+		"branch_id": 12345
+	},
+	"export_date": "07-03-2017"
+}
