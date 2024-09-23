@@ -55,6 +55,7 @@ $on-laptop:        800px !default;
   .site-logo {
     max-width: 80%; /* Shrink logo size for mobile */
     margin-top: 5px; /* Reduce margin on smaller screens */
+    margin-bottom: 5px;
   }
 }
 
@@ -62,6 +63,7 @@ $on-laptop:        800px !default;
   .site-logo {
     max-width: 70%; /* Further shrink for very small screens */
     margin-top: 5px;
+    margin-bottom: 5px;
   }
 }
 
