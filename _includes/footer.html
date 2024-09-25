@@ -2,31 +2,20 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
+      <!-- Column 1: Contact Information -->
       <div class="footer-col footer-col-1">
+        <h3>Get in touch</h3>
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          <li>Email - <a class="u-email" href="mailto:info@propertymap.ie">info@propertymap.ie</a></li>
+          <li>Facebook - <a href="https://www.facebook.com/profile.php?id=61566572423443" target="_blank" rel="noopener">Facebook</a></li>
         </ul>
       </div>
+    </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+    <!-- Copyright Message -->
+    <div class="footer-bottom">
+      <p>&copy; 2024 PropertyMap.ie. All rights reserved.</p>
     </div>
 
   </div>

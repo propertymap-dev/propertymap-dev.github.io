@@ -8,7 +8,9 @@ permalink: /property-market/is-daft-the-most-expensive-property-listing-portal
 
 <img src="/assets/content/dub-houses.jpeg" alt="Daft.ie Rental Pricing Options" style="max-width: 95%;">
 
-Daft.ie, Ireland’s largest property listing site, is also one of the most expensive. Listing a property here can cost over €1,000, especially for **For Sale By Owner** (FSBO) properties.
+If you've ever tried to sell or rent a property in Ireland, you're probably familiar with **Daft.ie**—one of the largest and most well-known property listing sites in the country. But have you ever wondered just how much it costs to list your property there? In this post we will compare the prices of Daft.ie to listing platforms in other countries.
+
+**TL;DR:** Daft.ie is one of, if not the most expensive platform we have surveyed.
 
 ### Costs Breakdown
 
