@@ -36,8 +36,8 @@ Here’s how Daft.ie stacks up against other platforms internationally :
 
 | Platform         | Scenario 1: Rent (3 Bed, Rathfarnham) | Scenario 2: Sale (4 Bed, Galway) |
 |------------------|---------------------------------------|----------------------------------|
-| Daft             | €321 (avg.)                           | €1099 (avg.)                     |
-| MyHome (Irl)             | €321 (avg.)                           | €1099 (avg.)                     |
+| Daft.ie             | €321 (avg.)                           | €1099 (avg.)                     |
+| MyHome.ie             | €321 (avg.)                           | Not Available*                     |
 | OpenRent (Rightmove, Zoopla) | €99-125                 | Not Available*                    |
 | Zillow (USA)           | Free                                  | Free                             |
 | Realestate.com.au (Australia) | €92 ($150)                            | Not Available*                    |
