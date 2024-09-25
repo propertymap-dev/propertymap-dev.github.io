@@ -46,11 +46,11 @@ Here’s how Daft.ie stacks up against other platforms internationally :
 | FSBO.com (USA)        | Not Available                         | €89 ($99.95)                     |
 | FazWaz (Brazil)           | Free                                  | Free                             |
 
-Daft.ie’s dynamic pricing is location and demand-dependent, making it pricier than many global platforms.
+Many listing sites only offer one of the two options eg. OpenRent only allows rentals and FSBO.com only allows sales. 
 
 ### Conclusion
 
-Daft.ie is among the most expensive platforms for private listings globally. The high costs aren't just a burden for landlords and sellers—they often get passed onto tenants and buyers, further inflating the housing market. Daft also makes more money as rental prices increase, adding to the overall cost for consumers.
+Daft.ie is among the most expensive platforms for private listings globally. The high costs aren't just a burden for landlords and sellers—they often get passed onto tenants and buyers, further inflating the housing market. Daft also makes more money as rental prices increase, adding to the overall cost for consumers. 
 
 For a cost-effective alternative in Ireland, **PropertyMap.ie** offers free base listings and flexible pricing for additional features.
 
