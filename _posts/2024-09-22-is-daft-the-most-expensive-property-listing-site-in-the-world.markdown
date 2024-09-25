@@ -69,3 +69,4 @@ For a cost-effective alternative in Ireland, **PropertyMap.ie** offers free base
 6. [MagicBricks - Pricing](https://post.magicbricks.com/)
 7. [FSBO - Pricing](https://www.99.co)
 8. [FazWaz - Pricing](https://www.fazwaz.com.br/en/list-with-us)
+9. [MyHome.ie - Pricing](https://www.myhome.ie/place-ad?adType=Rental)
