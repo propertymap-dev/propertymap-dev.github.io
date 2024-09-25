@@ -14,13 +14,13 @@ If you've ever tried to sell or rent a property in Ireland, you're probably fami
 
 ### Costs Breakdown
 
-We’ll explore two scenarios: a landlord renting a property and a private seller using FSBO, then compare Daft.ie’s costs with international platforms.
+We’ll explore two scenarios: a landlord renting a property and a private seller listing their home for sale, then compare Daft.ie’s costs with international platforms.
 
 A landlord looking to rent a three-bedroom house for €2,500/month in Rathfarnham is offered three tiers:
 
 <img src="/assets/content/daft-rental-screenshot.png" alt="Daft.ie Rental Pricing Options" style="border: 2px solid #000; padding: 2px; max-width: 95%;">
 
-_The screenshot shows the different pricing tiers for residential rents on Daft.ie_
+_The screenshot shows the different pricing tiers for residential rents on Daft.ie as of 25/9/24_
 
 ### Scenario 2: Selling a Four-Bed Home in Galway
 
@@ -28,7 +28,7 @@ For a family selling a €450,000 home in Oranmore, Daft.ie offers the following
 
 <img src="/assets/content/daft-buy-screenshot.png" alt="Daft.ie Buy Pricing Options" style="border: 2px solid #000; padding: 2px; max-width: 95%;">
 
-_The screenshot shows the different pricing tiers for residential buys on Daft.ie_
+_The screenshot shows the different pricing tiers for residential buys on Daft.ie as of 25/9/24_
 
 ### Global Comparison
 
@@ -36,23 +36,25 @@ Here’s how Daft.ie stacks up against other platforms internationally :
 
 | Platform         | Scenario 1: Rent (3 Bed, Rathfarnham) | Scenario 2: Sale (4 Bed, Galway) |
 |------------------|---------------------------------------|----------------------------------|
-| Daft             | €321 (avg.)                           | €1999 (avg.)                     |
-| OpenRent (Rightmove, Zoopla) | €57 (£49)                 | Not Available                    |
+| Daft             | €321 (avg.)                           | €1099 (avg.)                     |
+| OpenRent (Rightmove, Zoopla) | €57 (£49)                 | Not Available*                    |
 | Zillow (USA)           | Free                                  | Free                             |
-| Realestate.com.au (Australia) | €92 ($150)                            | Not Available                    |
-| Idealista (SPain, Italy)       | Free (for listings under €2,500)      | Free (for listings under €1M)    |
+| Realestate.com.au (Australia) | €92 ($150)                            | Not Available*                    |
+| Idealista (Spain, Italy)       | Free (for listings under €2,500)      | Free (for listings under €1M)    |
 | ImmobilienScout (Germany)  | Free                                  | Varies per region                |
 | MagicBricks (India)    | Free                                  | Free                             |
-| FSBO.com (USA)        | Not Available                         | €89 ($99.95)                     |
+| FSBO.com (USA)        | Not Available*                         | €89 ($99.95)                     |
 | FazWaz (Brazil)           | Free                                  | Free                             |
 
-Many listing sites only offer one of the two options eg. OpenRent only allows rentals and FSBO.com only allows sales. 
+_*Many listing sites only offer one of the two options eg. OpenRent only allows rentals and FSBO.com only allows sales._
 
 ### Conclusion
 
 Daft.ie is among the most expensive platforms for private listings globally. The high costs aren't just a burden for landlords and sellers—they often get passed onto tenants and buyers, further inflating the housing market. Daft also makes more money as rental prices increase, adding to the overall cost for consumers. 
 
-For a cost-effective alternative in Ireland, **PropertyMap.ie** offers free base listings and flexible pricing for additional features.
+### Propaganda
+
+For a cost-effective alternative in Ireland, **PropertyMap.ie** offers free base listings and flexible pricing for additional features. We're a new platform with a small team, trying to provide an alternative.
 
 [Get started on PropertyMap.ie today](https://propertymap.ie).
 
